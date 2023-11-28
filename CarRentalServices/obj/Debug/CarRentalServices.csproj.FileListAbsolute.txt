@@ -1,0 +1,7 @@
+C:\Users\Caleb\RiderProjects\CarRentalServices\CarRentalServices\bin\Debug\CarRentalServices.exe
+C:\Users\Caleb\RiderProjects\CarRentalServices\CarRentalServices\bin\Debug\CarRentalServices.pdb
+C:\Users\Caleb\RiderProjects\CarRentalServices\CarRentalServices\obj\Debug\CarRentalServices.csproj.AssemblyReference.cache
+C:\Users\Caleb\RiderProjects\CarRentalServices\CarRentalServices\obj\Debug\CarRentalServices.csproj.SuggestedBindingRedirects.cache
+C:\Users\Caleb\RiderProjects\CarRentalServices\CarRentalServices\obj\Debug\CarRentalServices.csproj.CoreCompileInputs.cache
+C:\Users\Caleb\RiderProjects\CarRentalServices\CarRentalServices\obj\Debug\CarRentalServices.exe
+C:\Users\Caleb\RiderProjects\CarRentalServices\CarRentalServices\obj\Debug\CarRentalServices.pdb
